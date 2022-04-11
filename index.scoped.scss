@@ -1,0 +1,17 @@
+.main {
+  background-color: rgb(42, 44, 44);
+  display: flex;
+  height: 100vh;
+
+  .header {
+    background-color: #001529;
+    padding: 0px 10px;
+
+    .logo {
+      height: 25px;
+    }
+  }
+  .ant-menu-item-selected {
+    background-color: #113545 !important;
+  }
+}
